@@ -9,6 +9,7 @@
 				<vlc:id>0</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
+			<image>https://en.wikipedia.org/wiki/Rangers_F.C.#/media/File:Rangers_FC.svg</image>
 		</track>
 		<track>
 			<location>http://iptv-line.com:6969/channellist/9rOzONTlxo/933</location>
